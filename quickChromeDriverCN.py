@@ -1,3 +1,13 @@
+"""
+
+
+Quick-ChromeDriver
+Author: yurhett @ https://github.com/yurhett/
+Update this script on: https://github.com/yurhett/Quick-ChromeDriver
+
+
+"""
+
 import urllib.request
 import winreg
 import re
