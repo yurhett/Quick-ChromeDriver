@@ -1,4 +1,6 @@
-# Quick-ChromeDriver(A quicker way to install webdriver)
+# Quick-ChromeDriver
+
+## (A quicker way to install webdriver)
 
 ## CN：
 
